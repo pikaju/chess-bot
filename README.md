@@ -10,8 +10,8 @@ Whichever move results in the highest predicted score for the AIs team is perfor
 
 ## Controls
 
-Clicking on a piece selects it an highlights all possible moves, which can be performed with another click.
-The AI opponent performs its move directly afterwards.
+Clicking on a piece selects it and highlights all possible moves, which can be performed with another click.
+The AI opponent does its move directly afterwards.
 
 ## Screenshots
 
